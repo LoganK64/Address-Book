@@ -4,5 +4,5 @@ Graphical Interface made in java that allows users to input their name, address,
 
 Running AddressBook.java will create a GUI for users to input or search for data.
 data input will be saved into addressbook.csv at the base directory. 
-If addressbook.csv does not exist it will be created
-if it does exist it will edit the currently existing one
+If addressbook.csv does not exist it will be created.
+If it does exist it will edit the currently existing one
